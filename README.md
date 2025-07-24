@@ -12,7 +12,7 @@ A simple python currency converter using real_time exchange rates from an API.
 -requests library
 
 ## how to Run
-'''bash
+```bash
 pip install requests
 python currency_converter.py
 
