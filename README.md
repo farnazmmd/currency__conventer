@@ -11,14 +11,16 @@ A simple python currency converter using real_time exchange rates from an API.
 -Python 3
 -requests library
 
+## example
+From: USD
+To: EUR
+Amount: 10
+Result: 9.23 EUR
+
 ## how to Run
 ```bash
 pip install requests
 python currency_converter.py
 
 
-## example
-From: USD
-To: EUR
-Amount: 10
-Result: 9.23 EUR
+
